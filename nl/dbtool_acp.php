@@ -1,9 +1,10 @@
 <?php
 /**
 *
-* Database Optimize & Repair Tool [English]
+* Database Optimize & Repair Tool [Dutch]
 *
 * @copyright (c) 2013 Matt Friedman
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
